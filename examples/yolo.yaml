@@ -1,0 +1,10 @@
+# dataset
+path: ../datasets/forinstance
+train: train/origdensity/images
+val: val/origdensity/images
+test: #optional
+
+# Classes
+nc: 1
+names:
+  0: tree
